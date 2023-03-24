@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\bin\Debug\net6.0\485 - Max Consecutive Ones.exe
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\bin\Debug\net6.0\485 - Max Consecutive Ones.deps.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\bin\Debug\net6.0\485 - Max Consecutive Ones.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\bin\Debug\net6.0\485 - Max Consecutive Ones.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\bin\Debug\net6.0\485 - Max Consecutive Ones.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\refint\485 - Max Consecutive Ones.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\485 - Max Consecutive Ones.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\485 - Max Consecutive Ones\obj\Debug\net6.0\ref\485 - Max Consecutive Ones.dll

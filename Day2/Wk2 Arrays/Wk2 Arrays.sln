@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wk2 Arrays", "Wk2 Arrays\Wk2 Arrays.csproj", "{E68AE045-80DA-4ED9-A5E5-B5649BFE091F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "414 - Third Maximum Number", "414 - Third Maximum Number\414 - Third Maximum Number.csproj", "{A0D4956A-42BE-46A2-9388-C624C29E6A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "448 - Find All Numbers Disappeared in an Array", "448 - Find All Numbers Disappeared in an Array\448 - Find All Numbers Disappeared in an Array.csproj", "{8166D202-C297-45B0-A552-F9C4C51B0CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "485 - Max Consecutive Ones", "485 - Max Consecutive Ones\485 - Max Consecutive Ones.csproj", "{3CA88DAC-19CD-4BF8-8F27-272F225F6DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "561 - Array Partition I", "561 - Array Partition I\561 - Array Partition I.csproj", "{99CF7A6A-70D5-42FB-B468-A8A347CFC787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68AE045-80DA-4ED9-A5E5-B5649BFE091F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68AE045-80DA-4ED9-A5E5-B5649BFE091F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68AE045-80DA-4ED9-A5E5-B5649BFE091F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68AE045-80DA-4ED9-A5E5-B5649BFE091F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D4956A-42BE-46A2-9388-C624C29E6A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D4956A-42BE-46A2-9388-C624C29E6A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D4956A-42BE-46A2-9388-C624C29E6A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D4956A-42BE-46A2-9388-C624C29E6A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8166D202-C297-45B0-A552-F9C4C51B0CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8166D202-C297-45B0-A552-F9C4C51B0CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8166D202-C297-45B0-A552-F9C4C51B0CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8166D202-C297-45B0-A552-F9C4C51B0CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA88DAC-19CD-4BF8-8F27-272F225F6DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA88DAC-19CD-4BF8-8F27-272F225F6DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA88DAC-19CD-4BF8-8F27-272F225F6DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA88DAC-19CD-4BF8-8F27-272F225F6DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CF7A6A-70D5-42FB-B468-A8A347CFC787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CF7A6A-70D5-42FB-B468-A8A347CFC787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CF7A6A-70D5-42FB-B468-A8A347CFC787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CF7A6A-70D5-42FB-B468-A8A347CFC787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD20A1C5-D022-48D5-BBA9-D3E83A89ADBF}
+	EndGlobalSection
+EndGlobal

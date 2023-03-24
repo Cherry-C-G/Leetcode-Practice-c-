@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\bin\Debug\net6.0\561 - Array Partition I.exe
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\bin\Debug\net6.0\561 - Array Partition I.deps.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\bin\Debug\net6.0\561 - Array Partition I.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\bin\Debug\net6.0\561 - Array Partition I.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\bin\Debug\net6.0\561 - Array Partition I.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\refint\561 - Array Partition I.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\561 - Array Partition I.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\561 - Array Partition I\obj\Debug\net6.0\ref\561 - Array Partition I.dll

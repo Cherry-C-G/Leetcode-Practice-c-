@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\bin\Debug\net6.0\414 - Third Maximum Number.exe
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\bin\Debug\net6.0\414 - Third Maximum Number.deps.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\bin\Debug\net6.0\414 - Third Maximum Number.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\bin\Debug\net6.0\414 - Third Maximum Number.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\bin\Debug\net6.0\414 - Third Maximum Number.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\refint\414 - Third Maximum Number.dll
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.pdb
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\414 - Third Maximum Number.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day2\Wk2 Arrays\414 - Third Maximum Number\obj\Debug\net6.0\ref\414 - Third Maximum Number.dll
