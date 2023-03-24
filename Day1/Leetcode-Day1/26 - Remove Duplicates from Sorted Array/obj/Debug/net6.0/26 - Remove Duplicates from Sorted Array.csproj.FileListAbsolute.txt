@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\bin\Debug\net6.0\26 - Remove Duplicates from Sorted Array.exe
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\bin\Debug\net6.0\26 - Remove Duplicates from Sorted Array.deps.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\bin\Debug\net6.0\26 - Remove Duplicates from Sorted Array.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\bin\Debug\net6.0\26 - Remove Duplicates from Sorted Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\bin\Debug\net6.0\26 - Remove Duplicates from Sorted Array.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\refint\26 - Remove Duplicates from Sorted Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\26 - Remove Duplicates from Sorted Array.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\26 - Remove Duplicates from Sorted Array\obj\Debug\net6.0\ref\26 - Remove Duplicates from Sorted Array.dll

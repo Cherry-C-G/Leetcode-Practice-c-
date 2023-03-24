@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\bin\Debug\net6.0\189 - Rotate Array.exe
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\bin\Debug\net6.0\189 - Rotate Array.deps.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\bin\Debug\net6.0\189 - Rotate Array.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\bin\Debug\net6.0\189 - Rotate Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\bin\Debug\net6.0\189 - Rotate Array.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\refint\189 - Rotate Array.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\189 - Rotate Array.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\189 - Rotate Array\obj\Debug\net6.0\ref\189 - Rotate Array.dll

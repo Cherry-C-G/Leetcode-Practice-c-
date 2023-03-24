@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\bin\Debug\net6.0\118 - Pascal's Triangle.exe
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\bin\Debug\net6.0\118 - Pascal's Triangle.deps.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\bin\Debug\net6.0\118 - Pascal's Triangle.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\bin\Debug\net6.0\118 - Pascal's Triangle.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\bin\Debug\net6.0\118 - Pascal's Triangle.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\refint\118 - Pascal's Triangle.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\118 - Pascal's Triangle.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\118 - Pascal's Triangle\obj\Debug\net6.0\ref\118 - Pascal's Triangle.dll

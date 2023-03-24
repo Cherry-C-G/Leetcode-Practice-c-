@@ -1,0 +1,15 @@
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.csproj.AssemblyReference.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.AssemblyInfoInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.AssemblyInfo.cs
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.csproj.CoreCompileInputs.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\bin\Debug\net6.0\Leetcode-Day1.exe
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\bin\Debug\net6.0\Leetcode-Day1.deps.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\bin\Debug\net6.0\Leetcode-Day1.runtimeconfig.json
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\bin\Debug\net6.0\Leetcode-Day1.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\bin\Debug\net6.0\Leetcode-Day1.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\refint\Leetcode-Day1.dll
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.pdb
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\Leetcode-Day1.genruntimeconfig.cache
+C:\Beaconfire\LeetcodePractice\Day1\Leetcode-Day1\Leetcode-Day1\obj\Debug\net6.0\ref\Leetcode-Day1.dll
