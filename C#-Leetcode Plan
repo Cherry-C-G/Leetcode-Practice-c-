@@ -1,0 +1,510 @@
+Leetcode plan
+
+To master coding in a short time from beginner to advanced using LeetCode, you need to follow a disciplined study plan. Here's a 12-week plan to help you progress:
+
+Week 1: Basics and Data Structures
+
+Learn basic programming concepts such as variables, conditionals, loops, functions, and arrays.
+Start with easy LeetCode problems related to arrays, strings, and basic math.
+Get familiar with basic data structures like linked lists, stacks, and queues.
+Week 2: Basic Data Structures and Algorithms
+
+Continue practicing easy problems on LeetCode.
+Learn about binary trees, hash tables, and basic graph representations.
+Get familiar with basic algorithms like binary search, depth-first search (DFS), and breadth-first search (BFS).
+Week 3: Intermediate Data Structures and Algorithms
+
+Move on to medium difficulty problems on LeetCode.
+Learn about more advanced data structures like heaps, trie, and disjoint-set data structure.
+Study algorithms like merge sort, quick sort, and Dijkstra's shortest path.
+Week 4: Dynamic Programming
+
+Focus on dynamic programming (DP) problems. Start with basic examples like Fibonacci sequence and climbing stairs.
+Study various types of DP problems, such as bottom-up, top-down, and memoization.
+Practice medium difficulty DP problems on LeetCode.
+Week 5: Greedy Algorithms and Graphs
+
+Learn about greedy algorithms and their applications.
+Study advanced graph algorithms like minimum spanning tree (Kruskal's and Prim's), topological sorting, and maximum flow (Ford-Fulkerson).
+Practice medium difficulty problems related to greedy algorithms and graph theory on LeetCode.
+Week 6: Advanced Topics
+
+Study advanced algorithm concepts like backtracking, bit manipulation, and divide and conquer.
+Learn about specialized data structures like segment trees and Fenwick trees.
+Practice medium to hard problems on these topics on LeetCode.
+Week 7: System Design
+
+Learn the basics of system design, including scalability, availability, and consistency.
+Study key components like load balancers, caching, databases, and message queues.
+Practice system design problems on LeetCode.
+Week 8: Mock Interviews
+
+Start doing timed mock interviews using LeetCode's mock interview feature.
+Focus on problem-solving speed and accuracy.
+Analyze your performance and identify areas for improvement.
+Week 9-11: Targeted Practice and Review
+
+Review the topics you struggled with during the mock interviews.
+Practice a mix of easy, medium, and hard problems on those topics.
+Continue doing mock interviews to track your progress.
+Week 12: Final Preparation
+
+Review your progress and any weak areas.
+Focus on improving your speed and accuracy in solving problems.
+Practice with more mock interviews.
+
+—-------------------------------------------------------------------------
+Day 1: Arrays
+
+1 - Two Sum
+26 - Remove Duplicates from Sorted Array
+88 - Merge Sorted Array
+118 - Pascal's Triangle
+189 - Rotate Array
+Day 2: Arrays
+
+238 - Product of Array Except Self
+414 - Third Maximum Number
+448 - Find All Numbers Disappeared in an Array
+485 - Max Consecutive Ones
+561 - Array Partition I
+Day 3: Strings
+
+28 - Implement strStr()
+344 - Reverse String
+14 - Longest Common Prefix
+387 - First Unique Character in a String
+3 - Longest Substring Without Repeating Characters
+Day 4: Strings
+
+20 - Valid Parentheses
+38 - Count and Say
+58 - Length of Last Word
+151 - Reverse Words in a String
+242 - Valid Anagram
+Day 5: Math
+
+7 - Reverse Integer
+9 - Palindrome Number
+13 - Roman to Integer
+66 - Plus One
+169 - Majority Element
+Day 6: Math
+
+171 - Excel Sheet Column Number
+231 - Power of Two
+258 - Add Digits
+367 - Valid Perfect Square
+441 - Arranging Coins
+Day 7: Linked Lists
+
+21 - Merge Two Sorted Lists
+83 - Remove Duplicates from Sorted List
+206 - Reverse Linked List
+234 - Palindrome Linked List
+160 - Intersection of Two Linked Lists
+Day 8: Linked Lists
+
+19 - Remove Nth Node From End of List
+24 - Swap Nodes in Pairs
+61 - Rotate List
+203 - Remove Linked List Elements
+328 - Odd Even Linked List
+Day 9: Stacks and Queues
+
+155 - Min Stack
+232 - Implement Queue using Stacks
+225 - Implement Stack using Queues
+496 - Next Greater Element I
+716 - Max Stack
+Day 10: Stacks and Queues
+
+150 - Evaluate Reverse Polish Notation
+346 - Moving Average from Data Stream
+636 - Exclusive Time of Functions
+739 - Daily Temperatures
+1019 - Next Greater Node In Linked List
+Day 11: Trees
+
+104 - Maximum Depth of Binary Tree
+110 - Balanced Binary Tree
+226 - Invert Binary Tree
+235 - Lowest Common Ancestor of a Binary Search Tree
+112 - Path Sum
+Day 12: Trees
+
+101 - Symmetric Tree
+543 - Diameter of Binary Tree
+572 - Subtree of Another Tree
+617 - Merge Two Binary Trees
+700 - Search in a Binary Search Tree
+Day 13: Sorting and Searching
+
+278 - First Bad Version
+704 - Binary Search
+75 - Sort Colors
+283 - Move Zeroes
+
+Day 14: Sorting and Searching
+
+349 - Intersection of Two Arrays
+350 - Intersection of Two Arrays II
+392 - Is Subsequence
+524 - Longest Word in Dictionary through Deleting
+658 - Find K Closest Elements
+Day 15: Dynamic Programming
+
+70 - Climbing Stairs
+198 - House Robber
+121 - Best Time to Buy and Sell Stock
+746 - Min Cost Climbing Stairs
+53 - Maximum Subarray
+Day 16: Dynamic Programming
+
+139 - Word Break
+300 - Longest Increasing Subsequence
+303 - Range Sum Query - Immutable
+413 - Arithmetic Slices
+509 - Fibonacci Number
+Day 17: Greedy Algorithms
+
+455 - Assign Cookies
+122 - Best Time to Buy and Sell Stock II
+860 - Lemonade Change
+392 - Is Subsequence
+121 - Best Time to Buy and Sell Stock
+Day 18: Greedy Algorithms
+
+605 - Can Place Flowers
+763 - Partition Labels
+134 - Gas Station
+435 - Non-overlapping Intervals
+621 - Task Scheduler
+Day 19: Graphs
+
+200 - Number of Islands
+997 - Find the Town Judge
+207 - Course Schedule
+210 - Course Schedule II
+261 - Graph Valid Tree
+Day 20: Graphs
+
+310 - Minimum Height Trees
+332 - Reconstruct Itinerary
+399 - Evaluate Division
+547 - Number of Provinces
+684 - Redundant Connection
+Day 21: Backtracking
+
+46 - Permutations
+78 - Subsets
+22 - Generate Parentheses
+79 - Word Search
+17 - Letter Combinations of a Phone Number
+Day 22: Backtracking
+
+39 - Combination Sum
+90 - Subsets II
+131 - Palindrome Partitioning
+216 - Combination Sum III
+698 - Partition to K Equal Sum Subsets
+Day 23: Bit Manipulation
+
+136 - Single Number
+191 - Number of 1 Bits
+371 - Sum of Two Integers
+461 - Hamming Distance
+476 - Number Complement
+Day 24: Bit Manipulation
+
+268 - Missing Number
+338 - Counting Bits
+389 - Find the Difference
+405 - Convert a Number to Hexadecimal
+693 - Binary Number with Alternating Bits
+Day 25: Two Pointers
+
+167 - Two Sum II - Input array is sorted
+283 - Move Zeroes
+344 - Reverse String
+125 - Valid Palindrome
+680 - Valid Palindrome II
+Day 26: Two Pointers
+
+15 - 3Sum
+88 - Merge Sorted Array
+141 - Linked List Cycle
+283 - Move Zeroes
+287 - Find the Duplicate Number
+
+Day 27: Recursion
+
+50 - Pow(x, n)
+509 - Fibonacci Number
+344 - Reverse String
+897 - Increasing Order Search Tree
+104 - Maximum Depth of Binary Tree
+Day 28: Sliding Window
+
+209 - Minimum Size Subarray Sum
+485 - Max Consecutive Ones
+3 - Longest Substring Without Repeating Characters
+438 - Find All Anagrams in a String
+904 - Fruit Into Baskets
+Day 29: Trie
+
+208 - Implement Trie (Prefix Tree)
+677 - Map Sum Pairs
+211 - Design Add and Search Words Data Structure
+692 - Top K Frequent Words
+720 - Longest Word in Dictionary
+Day 30: Heap
+
+215 - Kth Largest Element in an Array
+347 - Top K Frequent Elements
+23 - Merge k Sorted Lists
+378 - Kth Smallest Element in a Sorted Matrix
+1046 - Last Stone Weight
+Day 31: Union Find
+
+200 - Number of Islands
+547 - Friend Circles
+684 - Redundant Connection
+721 - Accounts Merge
+785 - Is Graph Bipartite?
+Day 32: Divide and Conquer
+
+23 - Merge k Sorted Lists
+53 - Maximum Subarray
+169 - Majority Element
+240 - Search a 2D Matrix II
+241 - Different Ways to Add Parentheses
+Day 33: Depth-First Search
+
+98 - Validate Binary Search Tree
+200 - Number of Islands
+695 - Max Area of Island
+733 - Flood Fill
+130 - Surrounded Regions
+Day 34: Breadth-First Search
+
+102 - Binary Tree Level Order Traversal
+127 - Word Ladder
+279 - Perfect Squares
+690 - Employee Importance
+103 - Binary Tree Zigzag Level Order Traversal
+Day 35: Dynamic Programming
+
+53 - Maximum Subarray
+139 - Word Break
+322 - Coin Change
+647 - Palindromic Substrings
+5 - Longest Palindromic Substring
+Day 36: Binary Search
+
+33 - Search in Rotated Sorted Array
+74 - Search a 2D Matrix
+162 - Find Peak Element
+278 - First Bad Version
+704 - Binary Search
+Day 37: Linked Lists
+
+25 - Reverse Nodes in k-Group
+82 - Remove Duplicates from Sorted List II
+142 - Linked List Cycle II
+430 - Flatten a Multilevel Doubly Linked List
+109 - Convert Sorted List to Binary Search Tree
+Day 38: Greedy Algorithms
+
+45 - Jump Game II
+55 - Jump Game
+402 - Remove K Digits
+406 - Queue Reconstruction by Height
+452 - Minimum Number of Arrows to Burst Balloons
+Day 39: Trees
+
+94 - Binary Tree Inorder Traversal
+98 - Validate Binary Search Tree
+102 - Binary Tree Level Order Traversal
+144 - Binary Tree Preorder Traversal
+145 - Binary Tree Postorder Traversal
+Day 40: Bit Manipulation
+
+137 - Single Number II
+201 - Bitwise AND of Numbers Range
+260 - Single Number III
+421 - Maximum XOR of Two Numbers in an Array
+476 - Number Complement
+Day 41: Two Pointers
+
+11 - Container With Most Water
+42 - Trapping Rain Water
+167 - Two Sum II - Input array is sorted
+287 - Find the Duplicate Number
+680 - Valid Palindrome II
+Day 42: Sliding Window
+
+3 - Longest Substring Without Repeating Characters
+76 - Minimum Window Substring
+209 - Minimum Size Subarray Sum
+904 - Fruit Into Baskets
+930 - Binary Subarrays With Sum
+Day 43: Trie
+
+336 - Palindrome Pairs
+648 - Replace Words
+677 - Map Sum Pairs
+720 - Longest Word in Dictionary
+820 - Short Encoding of Words
+Day 44: Heap
+
+295 - Find Median from Data Stream
+703 - Kth Largest Element in a Stream
+846 - Hand of Straights
+1046 - Last Stone Weight
+1439 - Find the Kth Smallest Sum of a Matrix With Sorted Rows
+Day 45: Union Find
+
+261 - Graph Valid Tree
+684 - Redundant Connection
+721 - Accounts Merge
+839 - Similar String Groups
+1101 - The Earliest Moment When Everyone Become Friends
+Day 46: Depth-First Search
+
+51 - N-Queens
+78 - Subsets
+417 - Pacific Atlantic Water Flow
+494 - Target Sum
+797 - All Paths From Source to Target
+Day 47: Breadth-First Search
+
+127 - Word Ladder
+286 - Walls and Gates
+297 - Serialize and Deserialize Binary Tree
+752 - Open the Lock
+934 - Shortest Bridge
+Day 48: Dynamic Programming
+
+62 - Unique Paths
+64 - Minimum Path Sum
+96 - Unique Binary Search Trees
+120 - Triangle
+312 - Burst Balloons
+*********************
+Day 49: Binary Search
+
+4 - Median of Two Sorted Arrays
+81 - Search in Rotated Sorted Array II
+153 - Find Minimum in Rotated Sorted Array
+154 - Find Minimum in Rotated Sorted Array II
+528 - Random Pick with Weight
+
+Day 50: Linked Lists
+
+2 - Add Two Numbers
+23 - Merge k Sorted Lists
+92 - Reverse Linked List II
+138 - Copy List with Random Pointer
+328 - Odd Even Linked List
+
+Day 51: Greedy Algorithms
+56 - Merge Intervals
+135 - Candy
+330 - Patching Array
+376 - Wiggle Subsequence
+649 - Dota2 Senate
+
+Day 52: Trees
+113 - Path Sum II
+124 - Binary
+70 - Climbing Stairs
+279 - Perfect Squares
+300 - Longest Increasing Subsequence
+***************************
+
+Day 49: Binary Search
+
+34 - Find First and Last Position of Element in Sorted Array
+153 - Find Minimum in Rotated Sorted Array
+162 - Find Peak Element
+240 - Search a 2D Matrix II
+704 - Binary Search
+Day 50: Linked Lists
+
+23 - Merge k Sorted Lists
+61 - Rotate List
+148 - Sort List
+206 - Reverse Linked List
+445 - Add Two Numbers II
+Day 51: Greedy Algorithms
+
+330 - Patching Array
+392 - Is Subsequence
+402 - Remove K Digits
+659 - Split Array into Consecutive Subsequences
+121 - Best Time to Buy and Sell Stock
+Day 52: Trees
+
+102 - Binary Tree Level Order Traversal
+105 - Construct Binary Tree from Preorder and Inorder Traversal
+106 - Construct Binary Tree from Inorder and Postorder Traversal
+124 - Binary Tree Maximum Path Sum
+222 - Count Complete Tree Nodes
+Day 53: Bit Manipulation
+
+78 - Subsets
+136 - Single Number
+137 - Single Number II
+190 - Reverse Bits
+191 - Number of 1 Bits
+Day 54: Two Pointers
+
+15 - 3Sum
+167 - Two Sum II - Input array is sorted
+287 - Find the Duplicate Number
+345 - Reverse Vowels of a String
+454 - 4Sum II
+
+Day 55: Sliding Window
+3 - Longest Substring Without Repeating Characters
+30 - Substring with Concatenation of All Words
+209 - Minimum Size Subarray Sum
+424 - Longest Repeating Character Replacement
+567 - Permutation in String
+Day 56: Trie
+208 - Implement Trie (Prefix Tree)
+211 - Design Add and Search Words Data Structure
+212 - Word Search II
+472 - Concatenated Words
+648 - Replace Words
+
+Day 57: Heap
+215 - Kth Largest Element in an Array
+264 - Ugly Number II
+347 - Top K Frequent Elements
+378 - Kth Smallest Element in a Sorted Matrix
+407 - Trapping Rain Water II
+
+Day 58: Union Find
+128 - Longest Consecutive Sequence
+547 - Number of Provinces
+684 - Redundant Connection
+1319 - Number of Operations to Make Network Connected
+1559 - Detect Cycles in 2D Grid
+
+Day 59: Depth-First Search
+39 - Combination Sum
+79 - Word Search
+200 - Number of Islands
+1319 - Number of Operations to Make Network Connected
+1559 - Detect Cycles in 2D Grid
+
+Day 60: Breadth-First Search
+127 - Word Ladder
+207 - Course Schedule
+210 - Course Schedule II
+513 - Find Bottom Left Tree Value
+743 - Network Delay Time
+
+
